@@ -27,7 +27,7 @@ Data Preprocessing
 
 The ```EIN``` and ```NAME``` columns are removed since they do not play a part in the project success.
 
-Compiling, Training, and Evaluating the Model
+### Compiling, Training, and Evaluating the Model
 
 #### How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
