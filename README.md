@@ -1,8 +1,10 @@
 # Neural Network Charity Analysis
+
 ## Overview of the analysis
+
 The objective of this project is to analyse past funding results to determine if the applicant organization will be able to successfully reach their goals. The analysis uses knowledge of Machine learning and neural networks to create a binary classifier that is capable of predicting the success of a funding project.
 
-Technologies
+## Technologies
 
 - ```Python 3.8```
 
@@ -10,13 +12,13 @@ Technologies
 
 - ```TensorFlow v2.4.0 library```
 
-Data Source
+#### Data Source
 
 ```charity_data.csv```
 
 ## Results  
 
-Data Preprocessing
+### Data Preprocessing
 #### What variable(s) are considered the target(s) for your model?
 ```Target variable(s): IS_SUCCESSFUL```
 
@@ -46,7 +48,6 @@ No, the highest accuracy for the model was 72%. Our target was 75%.
 - Change model's weights to be saved every 5 epochs.
 
 ## Summary
-
 
 Even after several attempts we were not able to achieve the target accuracy level of 75%.
 The final model selected consisted of 3 hidden layers with 50, 20 and 3 neurons each. The activation function used for the middle layers was relu and for the output layer is sigmoid.
