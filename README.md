@@ -2,7 +2,7 @@
 
 ## Overview of the analysis
 
-The objective of this project is to analyse past funding results to determine if the applicant organization will be able to successfully reach their goals. The analysis uses knowledge of Machine learning and neural networks to create a binary classifier that is capable of predicting the success of a funding project.
+The objective of this project is to analyse past funding results and determine which organizations should receive the donation and also use deep learning neural network to interpret large complex datasets. The analysis uses knowledge of Machine learning and Neural networks to create a binary classifier that is capable of predicting the success of a funding project.
 
 ## Technologies
 
@@ -14,7 +14,7 @@ The objective of this project is to analyse past funding results to determine if
 
 #### Data Source
 
-```charity_data.csv```
+- ```charity_data.csv```
 
 ## Results  
 
